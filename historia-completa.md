@@ -1,3 +1,10 @@
+---
+title: "História completa da Intelmib — 24 anos de jornada"
+description: "Linha do tempo detalhada da Intelmib: de sites pessoais (2001) à plataforma empresarial (2025)."
+date: 2025-08-26
+tags: ["história", "linha-do-tempo", "sobre"]
+---
+
 # 📖 História Completa da Intelmib - Jornada de 24 Anos
 
 ## 🌟 **A Jornada Completa: De Sites Pessoais à Plataforma Empresarial**

@@ -1,3 +1,11 @@
+---
+title: "Portal Vargem — Arquivo histórico (2003-2004)"
+description: "Registro do projeto Portal Vargem, suas seções, categorias e contexto histórico do início da Intelmib."
+date: 2003-11-06
+cover: /files/legacy-portavargem-001.png
+tags: ["legado", "história", "portal"]
+---
+
 # Portal Vargem - A História da Intelmib (2003)
 
 ## 📖 A História
@@ -30,9 +38,9 @@ Como era jovem e não entendia muito de marketing na época, o projeto não gero
 
 **URL Original**: https://web.archive.org/web/20041203013013/http://portalvargem.com.br/
 
-![Portal Vargem - Página Principal](files/legacy-portavargem-001.png)
+![Portal Vargem - Página Principal (2003-2004)](files/legacy-portavargem-001.png)
 
-Em 2003 não existia Google Maps, tudo era mais escasso. A moda da época eram os "torpedos" nos sites - uma espécie de fórum aberto onde as pessoas podiam deixar mensagens. e tambem pesquisar google dominavam
+Em 2003 não existia Google Maps; os recursos eram mais escassos. A moda da época eram os "torpedos" nos sites — uma espécie de fórum aberto onde as pessoas podiam deixar mensagens. Além disso, diretórios e mecanismos de busca dominavam a navegação.
 
 ---
 
