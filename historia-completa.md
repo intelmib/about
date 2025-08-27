@@ -17,7 +17,7 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 
 ### 🎯 **2001 - O Início (16 anos depois...)**
 - **O que aconteceu**: Comecei fazendo sites pessoais
-- **Motivação**: "pura paixão pela tecnologia
+- **Motivação**: "pura paixão pela tecnologia"
 - **Tecnologias**: HTML básico, primeiras experiências com web
 - **Status**: Hobby pessoal
 
