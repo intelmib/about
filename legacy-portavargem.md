@@ -159,23 +159,23 @@ O Portal Vargem era organizado em diversas categorias para facilitar a navegaç�
 Cada estabelecimento exibido no portal apresentava endereço (rua e número), telefone e múltiplas fotos reais da área externa do local, para reforçar confiança e dar referência visual.
 
 **Banco Banespa/Santander**  
-Pça Cap: João P. Fontão, 130 - 3641 9200  
+Pça Cap: João P. Fontão, 130 - 3641 XXXX
 Veja Fotos
 
 **Banco Bradesco**  
-Pça Cap: João P. Fontão, 45 - 3641 4600/5277/2484  
+Pça Cap: João P. Fontão, 45 - 3641 XXXX/BBB/CCCC  
 Veja Fotos
 
 **Banco do Brasil**  
-Pça Cap: João P. Fontão, 145 - 3641 5444  
+Pça Cap: João P. Fontão, 145 - 3641 XXXX  
 Veja Fotos
 
 **Banco HSBC**  
-Pça Cap.: João P. Fontão, 120 - 3641 1929/1464  
+Pça Cap.: João P. Fontão, 120 - 3641 XXXX/1464  
 Veja Fotos
 
 **Banco Itaú**  
-Pça Cap: João P. Fontão, 81 - 3641 1174  
+Pça Cap: João P. Fontão, 81 - 3641 XXXX  
 Veja Fotos
 
 **Banco do Povo**  
@@ -183,7 +183,7 @@ Sob consulta
 Veja Fotos
 
 **Caixa Econômica Federal**  
-Pça Cap: João P. Fontão, 66 - 3641 5411/5433/4822  
+Pça Cap: João P. Fontão, 66 - 3641 XXXX/XXXX/XXXX  
 Veja Fotos
 
 ---
