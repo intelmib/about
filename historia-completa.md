@@ -94,6 +94,13 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 - **Diagnóstico**: Falta de experiência em escalabilidade
 - **Estratégia errada**: Foco excessivo em vendas vs. entrega
 
+### ☁️ **2017-2018 - Primeira ida à nuvem (Remote Desktop)**
+- **Movimento**: Trouxemos clientes para a nuvem usando **Remote Desktop (RDP)**
+- **Como funcionava**: Sistema desktop rodando em servidor; acesso remoto às sessões
+- **Benefício ao cliente**: Experiência de “sistema na nuvem” sem instalar localmente
+- **Limitações**: Não era uma solução de **alta escalabilidade** (dependência de sessões/recursos por usuário)
+- **Aprendizado**: Resolveu a dor do cliente, mas não a nossa necessidade de escalar o produto
+
 ### 🎯 **2019-2020 - Mudança de Estratégia**
 - **Decisão**: "Vou parar de vender para todos os tipos de empresas"
 - **Nova abordagem**: Foco em clientes com maior poder aquisitivo (maior valor)
@@ -115,13 +122,12 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 - **Visão**: Infraestrutura de classe empresarial
 
 ### 🌟 **2025 - O Momento Atual**
-- **Status**: Preparando lançamento da nova plataforma
-- **Missão**: Colocar empresas no digital
-- **Escopo**: 
-  - Gestão empresarial completa
-  - Conformidade fiscal
-  - Soluções escaláveis
-- **Diferencial**: 24 anos de experiência + tecnologias modernas
+- **Status**: Lançando a nova plataforma de **alta escalabilidade**
+- **Tecnologia**: **Web nativa**, compatível com celulares, tablets e desktops
+- **Escalabilidade**: Arquitetura pensada para crescimento (multiusuário, distribuição horizontal)
+- **Integrações**: Conexões com **novas tecnologias** e serviços modernos
+- **Missão**: Colocar empresas no digital com gestão completa e conformidade fiscal
+- **Diferencial**: 24 anos de experiência + base tecnológica moderna
 
 ---
 
