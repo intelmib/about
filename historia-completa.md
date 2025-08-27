@@ -17,7 +17,7 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 
 ### 🎯 **2001 - O Início (16 anos depois...)**
 - **O que aconteceu**: Comecei fazendo sites pessoais
-- **Motivação**: "Coisa de moleque" - pura paixão pela tecnologia
+- **Motivação**: "pura paixão pela tecnologia
 - **Tecnologias**: HTML básico, primeiras experiências com web
 - **Status**: Hobby pessoal
 
@@ -53,15 +53,26 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 - **Foco**: Programação e desenvolvimento de sistemas
 - **Motivação**: Desejo de criar algo maior e melhor
 
+### 🧩 **2006-2008 - Agência de Sites e o Pivô para Gestão**
+- **Posicionamento na época**: A Intelmib atuava como **agência de criação de sites**
+- **O que fazíamos**:
+  - Portal Vargem (portal da cidade)
+  - Sites de escolas
+  - Sites para comércio local e outras instituições
+- **Sinal da transição**:
+  - Passei a organizar demandas com **planilhas de Excel**
+  - Percebi que a área de **gestão/processos** tinha demanda e retorno melhores do que "só fazer site"
+- **Decisão**: Iniciei a **mudança de foco** do negócio para soluções de gestão
+
 ### 💻 **2008-2009 - Preparação e Planejamento**
 - **2008**: Aprendi Delphi
-- **2009**: "Engatei um projeto Delphi"
+- **2009**: "Engatei um projeto Delphi" — início do sistema de gestão "Tellmy" (nome usado na época)
 - **Visão**: Criar o "sistema de gestão ideal"
 - **Método**: Desenvolvimento nas horas vagas, trabalhava de noite
 - **Status**: Foco total na qualidade e funcionalidade
 
 ### 🎯 **2010-2012 - Validação e Crescimento**
-- **2010**: **Lançamento** do sistema de gestão
+- **2010**: **Lançamento** do sistema de gestão (**Intelmib**)
 - **2011**: Um ano inteiro validando o produto no mercado
 - **2012**: 
   - Começou a gerar receita consistente
@@ -70,31 +81,31 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 
 ### 🚀 **2013-2014 - Explosão de Crescimento**
 - **Crescimento**: "De uma forma muito rápida"
-- **Marketing**: Criei canal no YouTube
+- **Marketing**: Criei canal no YouTube, panfletagem, parcerias.
 - **Resultado**: "Explosão" de vendas e visibilidade
 - **Entusiasmo**: Alto nível de motivação e energia
 
 ### ⚠️ **2015-2018 - O Grande Desafio**
 - **Problema**: "Vendi mais produto do que consegui entregar"
 - **Consequências**:
-  - Dificuldade em atender todos os clientes
+  - O Suporte e ajustes de features consumiam muito tempo
   - Complexidade do negócio só aumentava
   - Tentativas de contratar funcionários falharam
 - **Diagnóstico**: Falta de experiência em escalabilidade
 - **Estratégia errada**: Foco excessivo em vendas vs. entrega
 
 ### 🎯 **2019-2020 - Mudança de Estratégia**
-- **Decisão**: "Vou parar de vender"
-- **Nova abordagem**: Foco em clientes melhores (maior valor)
+- **Decisão**: "Vou parar de vender para todos os tipos de empresas"
+- **Nova abordagem**: Foco em clientes com maior poder aquisitivo (maior valor)
 - **Nova descoberta**: Clientes de maior valor = maior complexidade
 - **Resultado**: Mais dinheiro, mas mais trabalho
 - **Insight**: "Saiu pela culatra" - problema não resolvido
 
 ### 💡 **2021-2023 - Epifania e Transformação**
-- **Momento decisivo**: "Para conseguir escalabilidade, eu tenho que ser o melhor em tudo"
+- **Momento decisivo**: "Para conseguir escalabilidade é necessário mudar tudo"
 - **Filosofia**: Não adianta ficar "atrás dessa mecânica"
 - **Foco**: **Inovação como prioridade máxima**
-- **Decisão tecnológica**: Migrar do Delphi/Pascal para tecnologias web
+- **Decisão tecnológica**: Migrar do Delphi/Pascal (solução desktop) para tecnologias web
 
 ### 🏗️ **2024 - Reconstrução da Infraestrutura**
 - **Primeiro passo**: Criar infraestrutura robusta
