@@ -1,6 +1,7 @@
 # 📖 História Completa da Intelmib - Jornada de 24 Anos
+# Jornada de 24 Anos
 
-## 🌟 **A Jornada Completa: De Sites Pessoais à Plataforma Empresarial**
+## 🌟 **A Jornada Completa: De Sites Pessoais à Plataforma de Gestão Empresarial**
 
 Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e evoluiu através de experiências, erros, aprendizados e perseverança.
 
