@@ -1,0 +1,11 @@
+Intelmib: white-label de gestão, CI/CD e cloud. APIs e integrações fiscais; observabilidade e HA. OpenStack/K8s.
+
+Bio estendida (para perfil/descrições)
+Para devs e parceiros técnicos: entrego sistemas de gestão white-label (multiempresa/multiusuário), pipelines DevOps (CI/CD, IaC) e infraestrutura cloud (OpenStack/Kubernetes). Foco em APIs, integrações fiscais, observabilidade e alta disponibilidade, também posso ajudar com Virtualizações mais simples como Proxmox Windows/Linux e containers.
+
+Ofertas técnicas atuais
+- Sistema de gestão white-label: multi-tenant, modular, pronto para integrações fiscais.
+- DevOps: CI/CD, automação, IaC, monitoramento e observabilidade.
+- Infraestrutura: OpenStack, Kubernetes, Docker; foco em escalabilidade e resiliência.
+- Infraestrutura: Proxmox, foco em virtualização de máquinas virtuais Windows/Linux e gerenciamento de containers.
+- Integrações: REST APIs, Webhooks e conectores para serviços modernos.
