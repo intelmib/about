@@ -170,3 +170,23 @@ A combinação de **experiência real de mercado** + **tecnologias modernas** + 
 
 Cada linha de código escrita é um passo a mais na construção de uma plataforma que nasceu de um sonho de infância.
 
+
+
+## 🛠️ **Stack Tecnológico**
+
+### 🖥️ **Era Desktop (2008-2024)**
+[![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
+[![Pascal](https://img.shields.io/badge/pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black)](https://www.freepascal.org/)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server)
+
+### 🌐 **Era Web Moderna (2024-presente)**
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### ☁️ **Infraestrutura Cloud**
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Nomad](https://img.shields.io/badge/nomad-%2360DEA9.svg?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.nomadproject.io/)
+[![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+
+
