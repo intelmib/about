@@ -1,3 +1,56 @@
+## 🛠️ **Stack Tecnológico**
+
+### 🖥️ **Era Desktop (2008-2024)**
+![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![Pascal](https://img.shields.io/badge/pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🌐 **Era Web Moderna (2024-presente)**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ☁️ **Infraestrutura Cloud**
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nomad](https://img.shields.io/badge/nomad-%2360DEA9.svg?style=for-the-badge&logo=hashicorp&logoColor=white)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+### 📊 **Recursos do ERP**
+
+#### 📋 **Gestão Fiscal**
+- NFe - Emissão
+- NFCe - Emissão
+- SPED - Fiscal
+- IBPT - Tributos
+
+#### 💰 **Gestão Financeira**
+- Contas a Pagar
+- Contas a Receber
+- Fluxo de Caixa
+- DRE - Relatório
+- Balancete
+
+#### 👥 **Gestão de Contatos**
+- CRM - Clientes
+- Fornecedores
+- Vendedores
+
+#### 📦 **Gestão de Estoque**
+- Controle de Estoque
+- Inventário
+- Movimentação
+- Lote/Validade
+
+#### 🏷️ **Etiquetas e Códigos**
+- Etiquetas
+- Código de Barras
+- QR Code
+
+#### 💼 **Vendas e Compras**
+- PDV - Ponto de Venda
+- Orçamentos
+- Pedidos
+- Cotações
+
 # 📖 História Completa da Intelmib - Jornada de 24 Anos
 # Jornada de 24 Anos
 
@@ -171,55 +224,3 @@ A combinação de **experiência real de mercado** + **tecnologias modernas** + 
 Cada linha de código escrita é um passo a mais na construção de uma plataforma que nasceu de um sonho de infância.
 
 
-## 🛠️ **Stack Tecnológico**
-
-### 🖥️ **Era Desktop (2008-2024)**
-![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
-![Pascal](https://img.shields.io/badge/pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### 🌐 **Era Web Moderna (2024-presente)**
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ☁️ **Infraestrutura Cloud**
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Nomad](https://img.shields.io/badge/nomad-%2360DEA9.svg?style=for-the-badge&logo=hashicorp&logoColor=white)
-![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
-### 📊 **Recursos do ERP**
-
-#### 📋 **Gestão Fiscal**
-![NFe](https://img.shields.io/badge/NFe-Emissão-%232F2F2F.svg?style=for-the-badge&logo=document&logoColor=white)
-![NFCe](https://img.shields.io/badge/NFCe-Emissão-%232F2F2F.svg?style=for-the-badge&logo=document&logoColor=white)
-![SPED](https://img.shields.io/badge/SPED-Fiscal-%232F2F2F.svg?style=for-the-badge&logo=file-text&logoColor=white)
-![IBPT](https://img.shields.io/badge/IBPT-Tributos-%232F2F2F.svg?style=for-the-badge&logo=calculator&logoColor=white)
-
-#### 💰 **Gestão Financeira**
-![Contas a Pagar](https://img.shields.io/badge/Contas%20a%20Pagar-%232F2F2F.svg?style=for-the-badge&logo=credit-card&logoColor=white)
-![Contas a Receber](https://img.shields.io/badge/Contas%20a%20Receber-%232F2F2F.svg?style=for-the-badge&logo=money-bill&logoColor=white)
-![Fluxo de Caixa](https://img.shields.io/badge/Fluxo%20de%20Caixa-%232F2F2F.svg?style=for-the-badge&logo=chart-line&logoColor=white)
-![DRE](https://img.shields.io/badge/DRE-Relatório-%232F2F2F.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
-![Balancete](https://img.shields.io/badge/Balancete-%232F2F2F.svg?style=for-the-badge&logo=balance-scale&logoColor=white)
-
-#### 👥 **Gestão de Contatos**
-![CRM](https://img.shields.io/badge/CRM-Clientes-%232F2F2F.svg?style=for-the-badge&logo=users&logoColor=white)
-![Fornecedores](https://img.shields.io/badge/Fornecedores-%232F2F2F.svg?style=for-the-badge&logo=truck&logoColor=white)
-![Vendedores](https://img.shields.io/badge/Vendedores-%232F2F2F.svg?style=for-the-badge&logo=user-tie&logoColor=white)
-
-#### 📦 **Gestão de Estoque**
-![Controle de Estoque](https://img.shields.io/badge/Controle%20de%20Estoque-%232F2F2F.svg?style=for-the-badge&logo=warehouse&logoColor=white)
-![Inventário](https://img.shields.io/badge/Inventário-%232F2F2F.svg?style=for-the-badge&logo=clipboard-list&logoColor=white)
-![Movimentação](https://img.shields.io/badge/Movimentação-%232F2F2F.svg?style=for-the-badge&logo=arrow-up-down&logoColor=white)
-![Lote/Validade](https://img.shields.io/badge/Lote%2FValidade-%232F2F2F.svg?style=for-the-badge&logo=calendar&logoColor=white)
-
-#### 🏷️ **Etiquetas e Códigos**
-![Etiquetas](https://img.shields.io/badge/Etiquetas-%232F2F2F.svg?style=for-the-badge&logo=tag&logoColor=white)
-![Código de Barras](https://img.shields.io/badge/Código%20de%20Barras-%232F2F2F.svg?style=for-the-badge&logo=barcode&logoColor=white)
-![QR Code](https://img.shields.io/badge/QR%20Code-%232F2F2F.svg?style=for-the-badge&logo=qr-code&logoColor=white)
-
-#### 💼 **Vendas e Compras**
-![PDV](https://img.shields.io/badge/PDV-Ponto%20de%20Venda-%232F2F2F.svg?style=for-the-badge&logo=cash-register&logoColor=white)
-![Orçamentos](https://img.shields.io/badge/Orçamentos-%232F2F2F.svg?style=for-the-badge&logo=file-invoice&logoColor=white)
-![Pedidos](https://img.shields.io/badge/Pedidos-%232F2F2F.svg?style=for-the-badge&logo=shopping-cart&logoColor=white)
-![Cotações](https://img.shields.io/badge/Cotações-%232F2F2F.svg?style=for-the-badge&logo=compare&logoColor=white)
