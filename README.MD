@@ -190,35 +190,36 @@ Cada linha de código escrita é um passo a mais na construção de uma platafor
 ### 📊 **Recursos do ERP**
 
 #### 📋 **Gestão Fiscal**
-![NFe](https://img.shields.io/badge/NFe-Emissão-%2300D700.svg?style=for-the-badge&logo=document&logoColor=white)
-![NFCe](https://img.shields.io/badge/NFCe-Emissão-%2300D700.svg?style=for-the-badge&logo=document&logoColor=white)
-![SPED](https://img.shields.io/badge/SPED-Fiscal-%23FF6B35.svg?style=for-the-badge&logo=file-text&logoColor=white)
-![IBPT](https://img.shields.io/badge/IBPT-Tributos-%23007ACC.svg?style=for-the-badge&logo=calculator&logoColor=white)
+![NFe](https://img.shields.io/badge/NFe-Emissão-%232F2F2F.svg?style=for-the-badge&logo=document&logoColor=white)
+![NFCe](https://img.shields.io/badge/NFCe-Emissão-%232F2F2F.svg?style=for-the-badge&logo=document&logoColor=white)
+![SPED](https://img.shields.io/badge/SPED-Fiscal-%232F2F2F.svg?style=for-the-badge&logo=file-text&logoColor=white)
+![IBPT](https://img.shields.io/badge/IBPT-Tributos-%232F2F2F.svg?style=for-the-badge&logo=calculator&logoColor=white)
 
 #### 💰 **Gestão Financeira**
-![Contas a Pagar](https://img.shields.io/badge/Contas%20a%20Pagar-%23DC143C.svg?style=for-the-badge&logo=credit-card&logoColor=white)
-![Contas a Receber](https://img.shields.io/badge/Contas%20a%20Receber-%2332CD32.svg?style=for-the-badge&logo=money-bill&logoColor=white)
-![Fluxo de Caixa](https://img.shields.io/badge/Fluxo%20de%20Caixa-%234169E1.svg?style=for-the-badge&logo=chart-line&logoColor=white)
-![DRE](https://img.shields.io/badge/DRE-Relatório-%23FFD700.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Contas a Pagar](https://img.shields.io/badge/Contas%20a%20Pagar-%232F2F2F.svg?style=for-the-badge&logo=credit-card&logoColor=white)
+![Contas a Receber](https://img.shields.io/badge/Contas%20a%20Receber-%232F2F2F.svg?style=for-the-badge&logo=money-bill&logoColor=white)
+![Fluxo de Caixa](https://img.shields.io/badge/Fluxo%20de%20Caixa-%232F2F2F.svg?style=for-the-badge&logo=chart-line&logoColor=white)
+![DRE](https://img.shields.io/badge/DRE-Relatório-%232F2F2F.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Balancete](https://img.shields.io/badge/Balancete-%232F2F2F.svg?style=for-the-badge&logo=balance-scale&logoColor=white)
 
 #### 👥 **Gestão de Contatos**
-![CRM](https://img.shields.io/badge/CRM-Clientes-%236A5ACD.svg?style=for-the-badge&logo=users&logoColor=white)
-![Fornecedores](https://img.shields.io/badge/Fornecedores-%23FF4500.svg?style=for-the-badge&logo=truck&logoColor=white)
-![Vendedores](https://img.shields.io/badge/Vendedores-%2320B2AA.svg?style=for-the-badge&logo=user-tie&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM-Clientes-%232F2F2F.svg?style=for-the-badge&logo=users&logoColor=white)
+![Fornecedores](https://img.shields.io/badge/Fornecedores-%232F2F2F.svg?style=for-the-badge&logo=truck&logoColor=white)
+![Vendedores](https://img.shields.io/badge/Vendedores-%232F2F2F.svg?style=for-the-badge&logo=user-tie&logoColor=white)
 
 #### 📦 **Gestão de Estoque**
-![Controle de Estoque](https://img.shields.io/badge/Controle%20de%20Estoque-%23228B22.svg?style=for-the-badge&logo=warehouse&logoColor=white)
-![Inventário](https://img.shields.io/badge/Inventário-%23FF8C00.svg?style=for-the-badge&logo=clipboard-list&logoColor=white)
-![Movimentação](https://img.shields.io/badge/Movimentação-%236495ED.svg?style=for-the-badge&logo=arrow-up-down&logoColor=white)
-![Lote/Validade](https://img.shields.io/badge/Lote%2FValidade-%23DC143C.svg?style=for-the-badge&logo=calendar&logoColor=white)
+![Controle de Estoque](https://img.shields.io/badge/Controle%20de%20Estoque-%232F2F2F.svg?style=for-the-badge&logo=warehouse&logoColor=white)
+![Inventário](https://img.shields.io/badge/Inventário-%232F2F2F.svg?style=for-the-badge&logo=clipboard-list&logoColor=white)
+![Movimentação](https://img.shields.io/badge/Movimentação-%232F2F2F.svg?style=for-the-badge&logo=arrow-up-down&logoColor=white)
+![Lote/Validade](https://img.shields.io/badge/Lote%2FValidade-%232F2F2F.svg?style=for-the-badge&logo=calendar&logoColor=white)
 
 #### 🏷️ **Etiquetas e Códigos**
-![Etiquetas](https://img.shields.io/badge/Etiquetas-%23FF1493.svg?style=for-the-badge&logo=tag&logoColor=white)
-![Código de Barras](https://img.shields.io/badge/Código%20de%20Barras-%23000000.svg?style=for-the-badge&logo=barcode&logoColor=white)
-![QR Code](https://img.shields.io/badge/QR%20Code-%23000000.svg?style=for-the-badge&logo=qr-code&logoColor=white)
+![Etiquetas](https://img.shields.io/badge/Etiquetas-%232F2F2F.svg?style=for-the-badge&logo=tag&logoColor=white)
+![Código de Barras](https://img.shields.io/badge/Código%20de%20Barras-%232F2F2F.svg?style=for-the-badge&logo=barcode&logoColor=white)
+![QR Code](https://img.shields.io/badge/QR%20Code-%232F2F2F.svg?style=for-the-badge&logo=qr-code&logoColor=white)
 
 #### 💼 **Vendas e Compras**
-![PDV](https://img.shields.io/badge/PDV-Ponto%20de%20Venda-%2300CED1.svg?style=for-the-badge&logo=cash-register&logoColor=white)
-![Orçamentos](https://img.shields.io/badge/Orçamentos-%23DAA520.svg?style=for-the-badge&logo=file-invoice&logoColor=white)
-![Pedidos](https://img.shields.io/badge/Pedidos-%23FF6347.svg?style=for-the-badge&logo=shopping-cart&logoColor=white)
-![Cotações](https://img.shields.io/badge/Cotações-%234682B4.svg?style=for-the-badge&logo=compare&logoColor=white)
+![PDV](https://img.shields.io/badge/PDV-Ponto%20de%20Venda-%232F2F2F.svg?style=for-the-badge&logo=cash-register&logoColor=white)
+![Orçamentos](https://img.shields.io/badge/Orçamentos-%232F2F2F.svg?style=for-the-badge&logo=file-invoice&logoColor=white)
+![Pedidos](https://img.shields.io/badge/Pedidos-%232F2F2F.svg?style=for-the-badge&logo=shopping-cart&logoColor=white)
+![Cotações](https://img.shields.io/badge/Cotações-%232F2F2F.svg?style=for-the-badge&logo=compare&logoColor=white)
