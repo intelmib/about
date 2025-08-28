@@ -171,22 +171,54 @@ A combinação de **experiência real de mercado** + **tecnologias modernas** + 
 Cada linha de código escrita é um passo a mais na construção de uma plataforma que nasceu de um sonho de infância.
 
 
-
 ## 🛠️ **Stack Tecnológico**
 
 ### 🖥️ **Era Desktop (2008-2024)**
-[![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi)
-[![Pascal](https://img.shields.io/badge/pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black)](https://www.freepascal.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server)
+![Delphi](https://img.shields.io/badge/delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![Pascal](https://img.shields.io/badge/pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🌐 **Era Web Moderna (2024-presente)**
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ☁️ **Infraestrutura Cloud**
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Nomad](https://img.shields.io/badge/nomad-%2360DEA9.svg?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.nomadproject.io/)
-[![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nomad](https://img.shields.io/badge/nomad-%2360DEA9.svg?style=for-the-badge&logo=hashicorp&logoColor=white)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+### 📊 **Recursos do ERP**
 
+#### 📋 **Gestão Fiscal**
+![NFe](https://img.shields.io/badge/NFe-Emissão-%2300D700.svg?style=for-the-badge&logo=document&logoColor=white)
+![NFCe](https://img.shields.io/badge/NFCe-Emissão-%2300D700.svg?style=for-the-badge&logo=document&logoColor=white)
+![SPED](https://img.shields.io/badge/SPED-Fiscal-%23FF6B35.svg?style=for-the-badge&logo=file-text&logoColor=white)
+![IBPT](https://img.shields.io/badge/IBPT-Tributos-%23007ACC.svg?style=for-the-badge&logo=calculator&logoColor=white)
 
+#### 💰 **Gestão Financeira**
+![Contas a Pagar](https://img.shields.io/badge/Contas%20a%20Pagar-%23DC143C.svg?style=for-the-badge&logo=credit-card&logoColor=white)
+![Contas a Receber](https://img.shields.io/badge/Contas%20a%20Receber-%2332CD32.svg?style=for-the-badge&logo=money-bill&logoColor=white)
+![Fluxo de Caixa](https://img.shields.io/badge/Fluxo%20de%20Caixa-%234169E1.svg?style=for-the-badge&logo=chart-line&logoColor=white)
+![DRE](https://img.shields.io/badge/DRE-Relatório-%23FFD700.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
+
+#### 👥 **Gestão de Contatos**
+![CRM](https://img.shields.io/badge/CRM-Clientes-%236A5ACD.svg?style=for-the-badge&logo=users&logoColor=white)
+![Fornecedores](https://img.shields.io/badge/Fornecedores-%23FF4500.svg?style=for-the-badge&logo=truck&logoColor=white)
+![Vendedores](https://img.shields.io/badge/Vendedores-%2320B2AA.svg?style=for-the-badge&logo=user-tie&logoColor=white)
+
+#### 📦 **Gestão de Estoque**
+![Controle de Estoque](https://img.shields.io/badge/Controle%20de%20Estoque-%23228B22.svg?style=for-the-badge&logo=warehouse&logoColor=white)
+![Inventário](https://img.shields.io/badge/Inventário-%23FF8C00.svg?style=for-the-badge&logo=clipboard-list&logoColor=white)
+![Movimentação](https://img.shields.io/badge/Movimentação-%236495ED.svg?style=for-the-badge&logo=arrow-up-down&logoColor=white)
+![Lote/Validade](https://img.shields.io/badge/Lote%2FValidade-%23DC143C.svg?style=for-the-badge&logo=calendar&logoColor=white)
+
+#### 🏷️ **Etiquetas e Códigos**
+![Etiquetas](https://img.shields.io/badge/Etiquetas-%23FF1493.svg?style=for-the-badge&logo=tag&logoColor=white)
+![Código de Barras](https://img.shields.io/badge/Código%20de%20Barras-%23000000.svg?style=for-the-badge&logo=barcode&logoColor=white)
+![QR Code](https://img.shields.io/badge/QR%20Code-%23000000.svg?style=for-the-badge&logo=qr-code&logoColor=white)
+
+#### 💼 **Vendas e Compras**
+![PDV](https://img.shields.io/badge/PDV-Ponto%20de%20Venda-%2300CED1.svg?style=for-the-badge&logo=cash-register&logoColor=white)
+![Orçamentos](https://img.shields.io/badge/Orçamentos-%23DAA520.svg?style=for-the-badge&logo=file-invoice&logoColor=white)
+![Pedidos](https://img.shields.io/badge/Pedidos-%23FF6347.svg?style=for-the-badge&logo=shopping-cart&logoColor=white)
+![Cotações](https://img.shields.io/badge/Cotações-%234682B4.svg?style=for-the-badge&logo=compare&logoColor=white)
