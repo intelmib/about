@@ -28,7 +28,7 @@ Durante 2006-2008, a Intelmib atuava como agência de criação de sites, mas fo
 - **2009**: Iniciei o desenvolvimento do sistema "Tellmy" (depois Intelmib)
 - **2010**: Lancei oficialmente o sistema de gestão
 - **2011**: Dediquei um ano inteiro validando o produto no mercado
-- **2012**: O sistema começou a gerar receita consistente, permitindo que eu abandonasse outros trabalhos
+- **2012**: O sistema começou a gerar receita consistente, permitindo que eu pudesse focar em outros trabalhos
 
 ### 🚀 **O Crescimento Explosivo (2013-2014)**
 Criei canal no YouTube, fiz panfletagem, estabeleci parcerias. O resultado foi uma "explosão" de vendas e visibilidade. Era um período de alto entusiasmo e energia.
