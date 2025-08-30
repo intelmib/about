@@ -113,7 +113,7 @@ Esta é a história real de uma empresa que nasceu da paixão pela tecnologia e 
 
 ### 💻 **2008-2009 - Preparação e Planejamento**
 - **2008**: Aprendi Delphi
-- **2009**: "Engatei um projeto Delphi" — início do sistema de gestão "Tellmy" (nome usado na época)
+- **2009**: "Engatei um projeto Delphi" — início do sistema de gestão "Intelmib"
 - **Visão**: Criar o "sistema de gestão ideal"
 - **Método**: Desenvolvimento nas horas vagas, trabalhava de noite
 - **Status**: Foco total na qualidade e funcionalidade
